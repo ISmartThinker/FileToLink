@@ -1,4 +1,10 @@
-telethon
+git+https://codeberg.org/Lonami/Telethon.git
+cryptg
+asyncio
+aiohttp
+fastapi
+uvicorn
+uvloop
 cryptg
 asyncio
 aiohttp
