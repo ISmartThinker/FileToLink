@@ -5,9 +5,3 @@ aiohttp
 fastapi
 uvicorn
 uvloop
-cryptg
-asyncio
-aiohttp
-fastapi
-uvicorn
-uvloop
