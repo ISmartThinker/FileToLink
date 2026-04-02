@@ -53,7 +53,7 @@ RENDER_EXTERNAL_URL = os.getenv("RENDER_EXTERNAL_URL")
 RAILWAY_PUBLIC_DOMAIN = os.getenv("RAILWAY_PUBLIC_DOMAIN")
 RAILWAY_STATIC_URL = os.getenv("RAILWAY_STATIC_URL")
 FLY_APP_NAME = os.getenv("FLY_APP_NAME")
-VERCEL_URL = os.getenv("VERCEL_URL")
+VERCEL_URL = os.getenv("https://filetolink-ten.vercel.app")
 CUSTOM_DOMAIN = os.getenv("CUSTOM_DOMAIN")
 
 TypeLocation = Union[
